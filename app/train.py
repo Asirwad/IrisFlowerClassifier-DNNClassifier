@@ -2,7 +2,7 @@ import tensorflow as tf
 from tensorflow.keras import utils
 import pandas as pd
 from app.arch import get_model
-from app.input_function import input_fun
+from app.input_function import input_fun, test_input_func
 
 CSV_COLUMN_NAMES = ['SepalLength', 'SepalWidth', 'PetalLength', 'PetalWidth', 'Species']
 SPECIES = ['Setosa', 'Versicolor', 'Virginica']
@@ -37,11 +37,6 @@ print(f"\nTest set accuracy: {result['accuracy']}")
 
 
 # test
-def test_input_func(features, batch_size=256):
-    # Convert the inputs to a dataset without labele
-    return tf.data.Dataset.from_tensor_slices(dict(features)).batch(batch_size)
-
-
 input_features = ['SepalLength', 'SepalWidth', 'PetalLength', 'PetalWidth']
 predict = {}
 

@@ -9,3 +9,8 @@ def input_fun(features, labels, training=True, batch_size=256):
     if training:
         dataset = dataset.shuffle(1000).repeat()
     return dataset.batch(batch_size)
+
+
+def test_input_func(features, batch_size=256):
+    # Convert the inputs to a dataset without labele
+    return tf.data.Dataset.from_tensor_slices(dict(features)).batch(batch_size)
