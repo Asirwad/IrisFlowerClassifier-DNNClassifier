@@ -1,7 +1,9 @@
-# 🌺🌸🌼Iris Flower Classifier using TensorFlow's DNNClassifier 🌺🌸🌼
+<h1><p align="center">
+Iris Flower Classifier using TensorFlow's DNNClassifier
+</p></h1>
 
 <p align="center">
-  <img src="https://github.com/Asirwad/TitanicSurvivalPredictor-TFLinearRegression/assets/85600836/077f318f-cac3-4175-b606-69b23d48933d" alt="Project Logo" width="250">
+  <img src="https://github.com/Asirwad/IrisFlowerClassifier-DNNClassifier/assets/85600836/206b7e28-51d8-43c7-acd9-e236eb7a8546" alt="Project Logo" width="250">
 </p>
 
 ## Overview
@@ -25,6 +27,10 @@ The Iris dataset is a classic benchmark in the machine learning community. It in
 The TensorFlow DNNClassifier in this project is built with multiple hidden layers, allowing it to learn intricate patterns from the Iris dataset. Feel free to customize the architecture and experiment with different hyperparameters to achieve the best performance 🚀.
 
 ## Contribution
-Contributions are welcome! Whether it's optimizing the model, improving the documentation, or enhancing the visualizations, your contributions can help this project flourish 🌱. Submit a pull request and let's grow together! 🌷🌻
+Contributions are welcome! Whether it's optimizing the model, improving the documentation, or enhancing the visualizations, your contributions can help this project flourish 🌱. Submit a pull request and let's grow together! 🌷
+<p align="center">
+  <img src="https://github.com/Asirwad/IrisFlowerClassifier-DNNClassifier/assets/85600836/e052292a-1f8e-4573-bf1b-f709dae81921" alt="Project Logo" width="250">
+</p>
+
 
 
