@@ -1,6 +1,8 @@
 # 🌺🌸🌼Iris Flower Classifier using TensorFlow's DNNClassifier 🌺🌸🌼
 
-![Iris Flowers](iris_flowers.jpg)
+<p align="center">
+  <img src="https://github.com/Asirwad/TitanicSurvivalPredictor-TFLinearRegression/assets/85600836/077f318f-cac3-4175-b606-69b23d48933d" alt="Project Logo" width="250">
+</p>
 
 ## Overview
 Welcome to the Iris Flower Classifier project! This repository contains a deep learning model based on TensorFlow's DNNClassifier to classify the famous Iris flower dataset 🌼. The goal is to train a powerful neural network 🧠 that can accurately distinguish between different Iris species, making it an excellent showcase of machine learning 🌿 in action.
